@@ -1,0 +1,10 @@
+{
+    "name": "EgorPetrov/pgsqlTraced",
+    "description": "description",
+    "homepage": "http://hayate.ru",
+    "autoload": {
+        "psr-4": {
+            "EgorPetrov\\pgsqlTraced\\": "src/"
+        }
+    }
+}
